@@ -6,3 +6,7 @@ This is to test commit.
 Hello there!
 
 Life is full of mystery.
+
+hello
+hello
+how are you
